@@ -1,4 +1,4 @@
-This is some git practice.
+This is some git practice. some conflict here.
 
 
 changes
