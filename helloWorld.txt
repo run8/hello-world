@@ -3,4 +3,4 @@ This is some git practice. some conflict here.
 
 changes
 
-1304 change///   1305 changes
+1304 change///   1305 changes//  changes again
